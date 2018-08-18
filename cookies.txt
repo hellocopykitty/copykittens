@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mysnip.de	TRUE	/	FALSE	1999999999	phorum_tmp_cookie	this+will+be+destroyed+once+logged+in
+26240.foren.mysnip.de	TRUE	/	FALSE	1999999999	phorum_session_st	deleted
+26240.foren.mysnip.de	TRUE	/	FALSE	1999999999	phorum_session_v5	deleted
+.mysnip.de	TRUE	/	FALSE	1999999999	phorum_session_st	deleted
+.mysnip.de	TRUE	/	FALSE	1999999999	phorum_session_v5	deleted
+
